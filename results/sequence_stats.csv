@@ -1,0 +1,4 @@
+source_file,sequence_id,description,length,gc_percent,A,C,G,T,other
+sample_sequences.fasta,seq1,seq1 Example balanced DNA sequence,10,40.0,3,2,2,3,0
+sample_sequences.fasta,seq2,seq2 Example GC-rich DNA sequence,10,100.0,0,5,5,0,0
+sample_sequences.fasta,seq3,seq3 Example with ambiguous nucleotide,8,25.0,1,1,1,1,4
