@@ -1,0 +1,6 @@
+>seq1 Example balanced DNA sequence
+ATGCGCATTA
+>seq2 Example GC-rich DNA sequence
+GGGCCCGCGC
+>seq3 Example with ambiguous nucleotide
+ATGCNNNN
